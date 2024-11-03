@@ -1,3 +1,10 @@
+Notice:
+
+This is a clone of [Dimitar Toshkov Zhekov's Terminus Font](https://terminus-font.sourceforge.net/),
+with glyphs used in Lean 4's mathlib.
+
+Additionally, this repository contains Nix code to build this font.
+
 Contents:
 
 1. About.
