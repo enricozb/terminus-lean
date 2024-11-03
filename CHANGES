@@ -1,3 +1,7 @@
+Version 5.0.0:
+   * Added ∑
+   * forked by enricozb
+
 Version 4.49.1:
    * Fixed install-otb and uninstall-otb to use otbdir instead of x11dir.
 

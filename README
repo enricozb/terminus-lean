@@ -49,7 +49,7 @@ This archive contains source code for generating and installing Terminus
 Font for Linux console, X11 Window System, Microsoft Windows and Open Type
 Bitmap capable systems.
 
-- version	4.49.1
+- version	5.0.0
 - sizes		6x12, 8x14, 8x16, 10x18, 10x20, 11x22, 12x24, 14x28, 16x32
 - weights	normal, bold, CRT VGA bold
 - characters	1356
