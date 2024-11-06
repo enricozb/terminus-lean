@@ -310,6 +310,6 @@ uninstall-otb:
 # Cleanup
 
 clean:
-	rm -f $(PSF) $(PSF_VGAW) $(PCF) $(PCF_8BIT) $(OTB)
+	rm -f $(PSF) $(PSF_VGAW) $(PCF) $(PCF_8BIT) $(OTB) *.bak
 
 .PHONY: all install uninstall fontdir psf install-psf uninstall-psf psf-vgaw install-psf-vgaw uninstall-psf-vgaw install-psf-ref uninstall-psf-ref pcf install-pcf uninstall-pcf pcf-8bit install-pcf-8bit uninstall-pcf-8bit otb install-otb uninstall-otb clean
